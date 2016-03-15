@@ -2,20 +2,18 @@
 
 ## Introduction
 
-The Open Legal Access project aims to provide a set of open source website templates for use by organisations promoting access to justice. The project is maintained by Mike Bean with support from Isaac Parker Creative Services Limited, a digital marketing agency focussed on commercial law firms.
+The Open Legal Access project aims to provide a set of open source website templates for use by organisations promoting access to justice. The project is maintained by me, Mike Bean, with support from my company Isaac Parker Creative Services Limited, a digital marketing agency focused on commercial law firms.
 
-## Scope
+The project will deliver website templates consisting of HTML documents, CSS stylesheets, and front-end presentational Javascript in three categories:
 
-The project aims to deliver website templates consisting of HTML documents, CSS stylesheets, and front-end presentational Javascript in three categories:
+### 1. Marketing & Promotion
 
-### Marketing & Promotion
+Templates for website pages that help organisations to promote community legal services and access to justice projects.
 
-Templates for website pages that help organisation to promote community legal services and access to justice projects.
+### 2. Service Delivery
 
-### Fundraising
+Templates for website pages that help organisations to deliver online services to their clients.
+
+### 3. Fundraising
 
 Templates for website pages that help organisations to collect donations to fund their services.
-
-### Service Delivery
-
-Templates for website pages that help organisations to deliver online services to their clients. 
